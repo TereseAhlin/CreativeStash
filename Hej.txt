@@ -1,1 +1,3 @@
 Hej hej
+
+Hej, den som skriver "hej"!

@@ -8,13 +8,14 @@ def multiply():
     product = num_1 * num_2
     print("Produkten av " + str(num_1) + " och " + str(num_2) + " är: " + str(product))
     print("--------------------------------")
+    
 
 multiply()
 multiply()
 multiply()
 
 
-
+#Tobias här: bara testar lägga till en rad.
 
 #hurMångaGångerDetSkaKöras = int(input("Ange hur många gånger det ska köras: "))
 
